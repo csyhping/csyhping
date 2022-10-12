@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @csyhping
-- 👀 I’m interested in computer vision (especially in orthodontics)
-- 🌱 I’m currently a HKU postgraduate student
-- 💞️ I’m a photographer
+- 👤 Hi, I’m @csyhping
+- 🔍 I’m interested in computer vision (especially in orthodontics)
+- 🏫 I’m currently a HKU postgraduate student
+- 📷 I’m a photographer
 - 📫 csyhping@connect.hku.hk
 
 <!---
